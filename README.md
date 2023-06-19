@@ -8,7 +8,8 @@
 「忙しさ」「悩み度」は、あるウィンドウをどれぐらいの時間アクティブにし、どれだけタイピングしているかを元に自動で計算されます。
 
 ### システム構成
-![image](https://github.com/hibiki-azuhata/nanishiteru_E_hackathon/assets/106302513/a1df2919-1c23-49ae-94d1-84983d0e38e4)
+![image](https://github.com/hibiki-azuhata/nanishiteru_E_hackathon/assets/106302513/9bf2e0da-180d-477a-8af7-c2621f1ed638)
+
 
 #### ./LINEbot
 図中LINE Botに該当します。
